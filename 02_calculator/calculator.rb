@@ -25,18 +25,6 @@ def pow(number, power)
 end
 
 def factorial(i)	
-	# if i < 2
-	# 	1
-	# else
-	# 	count = i
-	# 	sum = i
-	# 	while count > 1
-	# 		sum *= count -1
-	# 		count -= 1
-	# 	end
-	# 	return sum		
-	# end
-
 	def find_factorial(i)
 		count = i
 		sum = i
